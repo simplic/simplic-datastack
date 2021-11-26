@@ -1,2 +1,5 @@
 <ReleaseNotes>
+  <ChangeSet>
+    <Change type="feature">Adds the possibility to get a stack's grid name by stack id via the stack service.</Change>
+  </ChangeSet>
 </ReleaseNotes>
