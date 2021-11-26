@@ -42,5 +42,12 @@ namespace Simplic.DataStack
         /// <param name="stackGuid">Stack guid</param>
         /// <returns>Display name</returns>
         string GetDisplayName(Guid stackGuid);
+
+        /// <summary>
+        /// Get the stack's grid name by id.
+        /// </summary>
+        /// <param name="stackGuid"></param>
+        /// <returns></returns>
+        string GetStackGridName(Guid stackGuid);
     }
 }
